@@ -1,3 +1,8 @@
+About this Repository
+=====================
+
+This repository is memo for my code reading of GHC.
+
 The Glasgow Haskell Compiler
 ============================
 
