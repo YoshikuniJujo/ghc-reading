@@ -679,6 +679,7 @@ BUILD_DIRS += docs/users_guide
 BUILD_DIRS += utils/count_lines
 BUILD_DIRS += utils/compare_sizes
 BUILD_DIRS += utils/iserv
+BUILD_DIRS += utils/hello
 
 # ----------------------------------------------
 # Actually include the sub-ghc.mk's
