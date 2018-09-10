@@ -680,6 +680,7 @@ BUILD_DIRS += utils/count_lines
 BUILD_DIRS += utils/compare_sizes
 BUILD_DIRS += utils/iserv
 BUILD_DIRS += utils/hello
+BUILD_DIRS += utils/checkCmmParsed
 
 # ----------------------------------------------
 # Actually include the sub-ghc.mk's
